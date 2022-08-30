@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "build": "tsc -b",
+    "dev": "tsc -w"
+  },
   "devDependencies": {
     "prettier": "^2.7.1",
     "typescript": "^4.8.2"
